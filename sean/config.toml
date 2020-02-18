@@ -10,8 +10,8 @@ theme = "hugo-creative-portfolio-theme"
   description = "Describe your website"
   copyright = "&copy;2016 Sean Marman"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I am a Site Reliability Engineer with four plus years of DevOps experience",
+    "Currently working in the San Francisco Bay Area."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
